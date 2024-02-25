@@ -1,5 +1,5 @@
-# Gemini Pro Node.js Starter Code
-API call for generative AI text via Gemini Pro API. Google AI Studio and Google Cloud Platform Account required.
+# Gemini Pro Embeddings for Node.js Starter Code
+API call for generating embeddings via Gemini Pro API. Google AI Studio and Google Cloud Platform Account required.
 Use Node v18.19.0
 ### Dependencies:
 ```
